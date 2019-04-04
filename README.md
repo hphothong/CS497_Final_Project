@@ -1,3 +1,8 @@
+# Authors
+  - Malik Herring
+  - Hayden Phothong
+  - Michael Sanchez
+
 # Overview
 
 # Libraries Needed
